@@ -1,0 +1,3 @@
+[submodule "plugin/js-beautify"]
+	path = plugin/js-beautify
+	url = https://github.com/beautify-web/js-beautify
